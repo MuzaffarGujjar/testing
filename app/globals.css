@@ -1,0 +1,30 @@
+.root_div{
+    padding: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+    /* margin-top: -20px; */
+    width: 100%;
+    display: flex;
+}
+.Icon_div{
+    display: flex;
+    align-items: center;
+}
+.cards{
+    text-align: center;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+}
+.display_div{
+    margin-top: 100px;
+    width: 80%;
+    height: auto;
+}
+.cards_div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
